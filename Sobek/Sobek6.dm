@@ -402,6 +402,7 @@
 #magicskill 5 3
 #spiritsight
 #swampsurvival
+#poorleader
 #end
 
 #newmonster 7987
@@ -441,6 +442,7 @@
 #swampsurvival
 #swimming
 #wastesurvival
+#poorleader
 #end
 
 #newmonster 7988
@@ -484,6 +486,7 @@
 #startdom 2
 #gcost 10000
 #moregrowth -1
+#goodleader
 #end
 
 #newmonster
