@@ -365,6 +365,7 @@
 #cleararmor
 #weapon 89 --Snake Staff
 #weapon 20 --Bite
+#armor 158 --Robes
 #expertleader
 #end
 
@@ -382,12 +383,13 @@
 #prot 10
 #size 5
 #mr 17
-#mapmove 20
+#mapmove 22
 #ap 11
 #eyes 2
 #weapon 7 --Quarterstaff
 #weapon 20 --Bite
 #armor 158 --Robes
+#armor 148 --Crown
 #humanoid
 #coldblood --Maybe should remove, but lets them wear jade mask.
 #holy
@@ -408,7 +410,7 @@
 #spr1 "./SobekSprites/SobekWight1.tga"
 #spr2 "./SobekSprites/SobekWight2.tga"
 #hp 41
-#str 21
+#str 19
 #att 13
 #def 11
 #enc 0
@@ -416,21 +418,21 @@
 #prot 10
 #size 5
 #mr 18
-#mapmove 20
+#mapmove 22
 #ap 11
 #eyes 2
-#weapon 7 --Quarterstaff
+#weapon 238 --Magic Staff
 #weapon 20 --Bite
 #armor 158 --Robes
+#armor 148 --Crown
 #humanoid
-#coldblood --Maybe should remove, but lets them wear jade mask.
 #holy
 #undead
 #pooramphibian
 #maxage 1500
 #pierceres
 #immortal
-#reformtime 1
+#reformtime -2
 #inanimate
 #coldres 15
 #poisonres 25
@@ -439,6 +441,49 @@
 #swampsurvival
 #swimming
 #wastesurvival
+#end
+
+#newmonster 7988
+#name "Grand Saurolich"
+#descr "A Saurolich is the dried husk of a Sauromancer. Through dark rituals, the lizard succeeded in mastering one of the oldest and most urgent of goals, to defeat death. By removing his viscera and hiding it outside his body, the Lich is virtually impossible to slay. Should the body be physically destroyed, a new one is formed from the dust of dead bodies."
+#spr1 "./SobekSprites/SobekWight1.tga"
+#spr2 "./SobekSprites/SobekWight2.tga"
+#hp 80 --What to set this to?
+#str 19
+#att 15
+#def 11
+#enc 0
+#prec 11
+#prot 10
+#size 5
+#mr 18
+#mapmove 22
+#ap 11
+#eyes 2
+#weapon 89 --Snake Staff
+#weapon 20 --Bite
+#armor 158 --Robes
+#armor 148 --Crown
+#humanoid
+#holy
+#undead
+#pooramphibian
+#maxage 1500
+#pierceres
+#immortal
+#reformtime -2
+#inanimate
+#coldres 15
+#poisonres 25
+#magicskill 5 3
+#spiritsight
+#swampsurvival
+#swimming
+#wastesurvival
+#pathcost 40
+#startdom 2
+#gcost 10000
+#moregrowth -1
 #end
 
 #newmonster
@@ -543,6 +588,10 @@ requires more work to be useful."
 
 #clearsites
 #startsite "Promised Marsh"
-#startsite "Sauropeum"s
+#startsite "Sauropeum"
+
+#delgod 320
+#delgod 2205
+#addgod 7988
 
 #end
