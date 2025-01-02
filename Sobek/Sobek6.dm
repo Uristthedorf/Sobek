@@ -361,6 +361,7 @@
 #magicskill 9 3
 #mr 17
 #holy
+#mor 13
 #clearweapons
 #cleararmor
 #weapon 89 --Snake Staff
@@ -394,6 +395,7 @@
 #coldblood --Maybe should remove, but lets them wear jade mask.
 #holy
 #undead
+#mor 18
 #pooramphibian
 #maxage 1250
 #coldres 25
@@ -421,6 +423,7 @@
 #mr 18
 #mapmove 22
 #ap 11
+#mor 30
 #eyes 2
 #weapon 238 --Magic Staff
 #weapon 20 --Bite
@@ -458,6 +461,7 @@
 #prec 11
 #prot 10
 #size 5
+#mor 30
 #mr 18
 #mapmove 22
 #ap 11
@@ -467,7 +471,6 @@
 #armor 158 --Robes
 #armor 148 --Crown
 #humanoid
-#holy
 #undead
 #pooramphibian
 #maxage 1500
