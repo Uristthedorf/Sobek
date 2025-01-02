@@ -430,6 +430,7 @@
 #armor 158 --Robes
 #armor 148 --Crown
 #humanoid
+#invulnerable 20
 #holy
 #undead
 #pooramphibian
@@ -474,6 +475,7 @@
 #undead
 #pooramphibian
 #maxage 1500
+#invulnerable 25
 #pierceres
 #immortal
 #reformtime -2
