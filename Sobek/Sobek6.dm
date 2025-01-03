@@ -603,5 +603,6 @@ requires more work to be useful."
 #delgod 320
 #delgod 2205
 #addgod 7988
+#cheapgod40 7988
 
 #end
