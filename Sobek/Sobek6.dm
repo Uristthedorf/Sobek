@@ -392,7 +392,7 @@
 #armor 158 --Robes
 #armor 148 --Crown
 #humanoid
-#coldblood --Maybe should remove, but lets them wear jade mask.
+#neednoteat
 #holy
 #undead
 #mor 18
@@ -430,6 +430,7 @@
 #armor 158 --Robes
 #armor 148 --Crown
 #humanoid
+#neednoteat
 #invulnerable 20
 #holy
 #undead
@@ -472,6 +473,7 @@
 #armor 158 --Robes
 #armor 148 --Crown
 #humanoid
+#neednoteat
 #undead
 #pooramphibian
 #maxage 1500
