@@ -525,19 +525,22 @@
 
 #newsite
 #name "Promised Marsh"
-#gems 2 1
 #gems 6 2
 #rarity 5
 #homecom 7985
 #homemon "Sobek Defender"
 #homemon "Sobek Sacred Guard"
+#path 6
+#look -1
 #end
 
 #newsite
 #name "Sauropeum"
-#gems 5 1
+#gems 5 2
 #homecom 7983
 #homecom "Sobek Reborn"
+#path 5
+#look -1
 #end
 
 #selectnation 75
@@ -582,18 +585,18 @@ requires more work to be useful."
 #hero8 -1
 #hero9 -1
 
-#addrecunit "Lizard Warrior"
-#addrecunit "Free Elite Warrior"
 #addrecunit "Free Runner"
+#addrecunit "Lizard Warrior"
 #addrecunit "Elite Runner"
+#addrecunit "Free Elite Warrior"
 #addrecunit "Sobek Swordsman"
 #addrecunit "Sobek Archer"
 
-#addreccom "Shaman Priest" --Shaman
-#addreccom "Sobek General"
 #addreccom "Runner Scout"
-#addreccom "Runner Raid Leader"
 #addreccom "Predator Lord"
+#addreccom "Runner Raid Leader"
+#addreccom "Sobek General"
+#addreccom "Shaman Priest" --Shaman
 #addreccom "High Shaman"
 
 #clearsites
