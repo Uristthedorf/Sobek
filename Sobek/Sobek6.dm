@@ -410,8 +410,8 @@
 #newmonster 7987
 #name "Saurolich"
 #descr "A Saurolich is the dried husk of a Sauromancer. Through dark rituals, the lizard succeeded in mastering one of the oldest and most urgent of goals, to defeat death. By removing his viscera and hiding it outside his body, the Lich is virtually impossible to slay. Should the body be physically destroyed, a new one is formed from the dust of dead bodies."
-#spr1 "./SobekSprites/SobekWight1.tga"
-#spr2 "./SobekSprites/SobekWight2.tga"
+#spr1 "./SobekSprites/SobekLich1.tga"
+#spr2 "./SobekSprites/SobekLich2.tga"
 #hp 41
 #str 19
 #att 13
@@ -453,8 +453,8 @@
 #newmonster 7988
 #name "Grand Saurolich"
 #descr "A Saurolich is the dried husk of a Sauromancer. Through dark rituals, the lizard succeeded in mastering one of the oldest and most urgent of goals, to defeat death. By removing his viscera and hiding it outside his body, the Lich is virtually impossible to slay. Should the body be physically destroyed, a new one is formed from the dust of dead bodies."
-#spr1 "./SobekSprites/SobekWight1.tga"
-#spr2 "./SobekSprites/SobekWight2.tga"
+#spr1 "./SobekSprites/SobekLich1.tga"
+#spr2 "./SobekSprites/SobekLich2.tga"
 #hp 80 --What to set this to?
 #str 19
 #att 15
@@ -574,6 +574,15 @@ requires more work to be useful."
 #defmult1b 8
 #defmult2 8
 #defmult2b 4
+
+#startcom "Predator Lord"
+#startunittype1 "Free Warrior"
+#startunitnbrs1 30
+#startunittype2 "Free Runner"
+#startunitnbrs1 20
+
+
+#startscout "Runner Scout"
 
 #hero1 7984 --Eldest Sobek
 #hero2 2394 --Atun Shar
