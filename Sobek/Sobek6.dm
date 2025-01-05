@@ -576,10 +576,10 @@ requires more work to be useful."
 #defmult2b 4
 
 #startcom "Predator Lord"
-#startunittype1 "Free Warrior"
-#startunitnbrs1 30
+#startunittype1 "Lizard Warrior"
+#startunitnbrs1 35
 #startunittype2 "Free Runner"
-#startunitnbrs1 20
+#startunitnbrs1 25
 
 
 #startscout "Runner Scout"
