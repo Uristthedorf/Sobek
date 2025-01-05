@@ -410,8 +410,8 @@
 #newmonster 7987
 #name "Saurolich"
 #descr "A Saurolich is the dried husk of a Sauromancer. Through dark rituals, the lizard succeeded in mastering one of the oldest and most urgent of goals, to defeat death. By removing his viscera and hiding it outside his body, the Lich is virtually impossible to slay. Should the body be physically destroyed, a new one is formed from the dust of dead bodies."
-#spr1 "./SobekSprites/SobekLich1.tga"
-#spr2 "./SobekSprites/SobekLich2.tga"
+#spr1 "./SobekSprites/SobekLich1.png"
+#spr2 "./SobekSprites/SobekLich2.png"
 #hp 41
 #str 19
 #att 13
@@ -453,8 +453,8 @@
 #newmonster 7988
 #name "Grand Saurolich"
 #descr "A Saurolich is the dried husk of a Sauromancer. Through dark rituals, the lizard succeeded in mastering one of the oldest and most urgent of goals, to defeat death. By removing his viscera and hiding it outside his body, the Lich is virtually impossible to slay. Should the body be physically destroyed, a new one is formed from the dust of dead bodies."
-#spr1 "./SobekSprites/SobekLich1.tga"
-#spr2 "./SobekSprites/SobekLich2.tga"
+#spr1 "./SobekSprites/SobekLich1.png"
+#spr2 "./SobekSprites/SobekLich2.png"
 #hp 80 --What to set this to?
 #str 19
 #att 15
