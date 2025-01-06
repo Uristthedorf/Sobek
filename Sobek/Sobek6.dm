@@ -1,6 +1,7 @@
 #modname "Sobek"
 #description "Replaces MA Ctis with LA Sobek."
 #version 1.00
+#icon "./SnakeFlag.tga"
 
 #newmonster --Shaman
 #copystats 170
@@ -548,8 +549,12 @@
 #epithet "Promised Marsh"
 #era 3
 #fortera 3
-#descr "This is a test nation, it has no units and
-requires more work to be useful."
+#descr "Fearing the might and brutality of the Sobeks, the herbivore lizards of C'tis attacked the Sobeks. In the ensuing war, the Predator Lizard slaves sided with the Sobeks. While the C'tisians won the war, the Sobeks and the Predator Lizards managed to escape C'tis, and were lead by the awakening god to a new, Promised Marsh. Since freeing them, all Sobeks have been considered sacred to the Predator Lizards."
+#summary "Race: Predator Lizards and Large Sobeks. They have thick hides, can bite, and prefer heat scale 2
+Military: Infantry, some archers, sacred serpants, elite Sobek warriors, runners can fill a fast attack niche
+Magic: Death, Nature, Astral, some Water
+Dominion: Transforms lands to swamps, increases own income, reduces income for everyone else, diseases non-coldblooded units."
+#brief "Free Lizards use death magic to conquer the world (I don't know where to find the "brief" so I hope this is appropriate."
 #color 0.5 0.5 0
 #secondarycolor 0 1 0
 #flag "./SobekSprites/SnakeFlag.tga"
@@ -580,7 +585,6 @@ requires more work to be useful."
 #startunitnbrs1 35
 #startunittype2 "Free Runner"
 #startunitnbrs1 25
-
 
 #startscout "Runner Scout"
 
